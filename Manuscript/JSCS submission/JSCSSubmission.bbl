@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\normalfont{#1}}
+\providecommand{\urlprefix}{Available from: }
+
+\bibitem{mardia2000directional}
+Mardia~KV, Jupp~PE. Directional statistics. Chichester, England: Wiley; 2000.
+
+\bibitem{fisher1992regression}
+Fisher~NI, Lee~AJ. Regression models for an angular response. Biometrics.
+  1992;\hspace{0pt}48(3):665--677.
+
+\bibitem{lagona2016regression}
+Lagona~F. Regression analysis of correlated circular data based on the
+  multivariate von mises distribution. Environmental and ecological statistics.
+  2016;\hspace{0pt}23(1):89--113.
+
+\bibitem{presnell1998projected}
+Presnell~B, Morrison~SP, Littell~RC. Projected multivariate linear models for
+  directional data. Journal of the American Statistical Association.
+  1998;\hspace{0pt}93(443):1068--1077.
+
+\bibitem{mulder2017bayesian}
+Mulder~K, Klugkist~I. Bayesian estimation and hypothesis tests for a circular
+  generalized linear model. Journal of Mathematical Psychology.
+  2017;\hspace{0pt}80:4--14.
+
+\bibitem{ravindran2011bayesian}
+Ravindran~P, Ghosh~SK. Bayesian analysis of circular data using wrapped
+  distributions. Journal of Statistical Theory and Practice.
+  2011;\hspace{0pt}5(4):547--561.
+
+\bibitem{nunez2011bayesian}
+Nu{\~n}ez-Antonio~G, Guti{\'e}rrez-Pe{\~n}a~E, Escarela~G. A {Bayes}ian
+  regression model for circular data based on the projected normal
+  distribution. Statistical Modelling. 2011;\hspace{0pt}11(3):185--201.
+
+\bibitem{rivest2015general}
+Rivest~LP, Duchesne~T, Nicosia~A, et~al. A general angular regression model for
+  the analysis of data on animal movement in ecology. Journal of the Royal
+  Statistical Society: Series C (Applied Statistics).
+  2015;\hspace{0pt}63(3):445--463.
+
+\bibitem{CremersMulderKlugkist2017}
+Cremers~J, Mulder~K, Klugkist~I. Circular interpretation of regression
+  coefficients. British Journal of Mathematical and Statistical Psychology.
+  2018;\hspace{0pt}71(1):75--95.
+
+\bibitem{kendall1974}
+Kendall~DG. Pole-seeking brownian motion and bird navigation. Journal of the
+  Royal Statistical Society Series B. 1974;\hspace{0pt}37:97--133.
+
+\bibitem{wang2012directional}
+Wang~F, Gelfand~AE. Directional data analysis under the general projected
+  normal distribution. Statistical Methodology.
+  2013;\hspace{0pt}10(1):113--127.
+
+\bibitem{Cremers2018Assessing}
+Cremers~J, Mainhard~MT, Klugkist~I. Assessing a bayesian embedding approach to
+  circular regression models. Methodology. 2018;\hspace{0pt}14(2):69--81.
+
+\end{thebibliography}
